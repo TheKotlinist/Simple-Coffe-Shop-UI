@@ -1,16 +1,33 @@
-# coffee_shop_gpt
+# ☕️ Simple Coffee Shop UI
 
-A new Flutter project.
+A beautiful and minimal coffee shop mobile UI built with **Flutter**.  
+This project showcases modern UI practices, smooth tab navigation, and elegant product cards for a coffee ordering experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌇 Custom header with location & avatar
+- 🔍 Stylish search bar with filter icon
+- 🧭 Horizontal scrollable tab bar for categories
+- 📦 Dynamic coffee product grid with rating, price, and add button
+- 💡 Smooth PageView integration for category transitions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+| Home | Tabs | Card |
+|------|------|------|
+| _You can add screenshots here (optional)_ |
+
+> 💡 You can place your screenshots in a folder like `images/screenshots/` if needed.
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/TheKotlinist/Simple-Coffe-Shop-UI.git
+   cd Simple-Coffe-Shop-UI
