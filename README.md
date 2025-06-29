@@ -32,7 +32,8 @@ This project showcases modern UI practices, smooth tab navigation, and elegant p
 
 3. Run the app
    ```bash
-   flutter run or you can use debug the main.dart if using any emulator
+   flutter run
+   (or you can use debug the main.dart if using any emulator)
 
 
 That's all from me, Thanks & Enjoy :)
